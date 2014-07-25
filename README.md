@@ -1,4 +1,4 @@
 sandbox
 =======
 
-git@github.com:fcolecchia/sandbox/.git
+git@github.com:fcolecchia/sandbox.git
